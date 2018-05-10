@@ -1,0 +1,7 @@
+Credentials cache: API:207
+        Principal: ychahbar@S19.BE
+
+  Issued                Expires               Principal
+May  1 20:29:10 2018  May  2 06:29:10 2018  krbtgt/S19.BE@S19.BE
+May  1 20:29:11 2018  May  2 06:29:10 2018  ldap/ldap-master.s19.be@S19.BE
+May  1 20:29:11 2018  May  2 06:29:10 2018  HTTP/san-ssd.s19.be@S19.BE
